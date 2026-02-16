@@ -30,7 +30,7 @@ We're always looking for collaborators! Whether you're a student, researcher, or
 - 🌐 **Website:** [dashlab.io](https://dashlab.io)
 - 🚀 **Studio:** [dashlab.studio](https://dashlab.studio)
 - 📰 **News:** [Latest updates](https://dashlab.io/news)
-- 💼 **LinkedIn:** [Follow us](https://www.linkedin.com/company/dashlab)
+- 💼 **LinkedIn:** [Follow us](https://www.linkedin.com/company/dmsb-ai-strategic-hub)
 
 ---
 
